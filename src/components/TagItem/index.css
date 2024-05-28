@@ -1,0 +1,20 @@
+.list-item {
+  margin: 0px 10px 0px 10px;
+}
+.tag-btn {
+  padding: 10px;
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  border-radius: 18px;
+  border: solid 2px #f3aa4e;
+  min-width: 80px;
+}
+.non-active {
+  color: #f3aa4e;
+  background-color: transparent;
+}
+.active-btn {
+  background-color: #f3aa4e;
+  color: #f1f5f9;
+}

@@ -1,0 +1,21 @@
+.task-list-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 4px;
+  background-color: #1a171d;
+}
+.task-title {
+  color: #ffffff;
+  font-size: 16px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.task-tag {
+  color: #f1f5f9;
+  font-size: 16px;
+  border: solid 2px #f3aa4e;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
